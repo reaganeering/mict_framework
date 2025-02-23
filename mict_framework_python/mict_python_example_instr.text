@@ -1,0 +1,9 @@
+To Run the Example:
+
+Save the MICT class code as mict_framework.py.
+
+Save the example code as example.py.
+
+Make sure both files are in the same directory.
+
+Open a terminal and run: python example.py
