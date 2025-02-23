@@ -1,4 +1,5 @@
-Thank you for taking the time to review the MICT CORE Logic Engines.  This goes beyond modules to a Framework that can be applied to any language.  We have samples in Python and RUST.  If you are interested in contributing, reviewing code, helping guide the direction of Our Future,
+Thank you for taking the time to review the MICT CORE Logic Engines.  This goes beyond modules to a Framework that can be applied to any language.  We have samples in Python and RUST.  
+If you are interested in contributing, reviewing code, helping guide the direction of Our Future,
 Please Contact Us: info@boredbrains.net
 Visit the Website, we will have a new MICT CORE Logic Engine Based Commnity going uo very soon.  Thank you and I'm looking forward to collaborating with you on this incredible Framework.
 Website: https://www.boredbrains.net 
